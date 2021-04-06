@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="7.0.0"></a>
+## [7.0.0] (2021-04-06)
+
+* Fixed ModuleWithProviders generic type since Angular 10+
+* Updated lib versions.
+
 <a name="6.5.2"></a>
 ## [6.5.2](https://github.com/mattlewis92/angularx-flatpickr/compare/v6.5.1...v6.5.2) (2021-02-02)
 
