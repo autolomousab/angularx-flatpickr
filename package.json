@@ -1,5 +1,5 @@
 {
-  "name": "angularx-flatpickr",
+  "name": "@autolomous/angularx-flatpickr",
   "version": "7.0.0",
   "description": "An angular 11.0+ wrapper for flatpickr",
   "scripts": {
