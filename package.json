@@ -1,6 +1,6 @@
 {
   "name": "@autolomous/angularx-flatpickr",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "description": "An angular 11.0+ wrapper for flatpickr",
   "scripts": {
     "start": "concurrently --raw \"webpack-dev-server --open\" \"npm run test:watch\"",
